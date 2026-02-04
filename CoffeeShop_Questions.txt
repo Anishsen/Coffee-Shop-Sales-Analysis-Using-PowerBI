@@ -1,0 +1,38 @@
+ Sales Performance
+
+What is the total sales revenue over time (daily, monthly, yearly)?-----done
+
+How has the sales trend changed over months or seasons?-----done
+
+What is the average order value? ------done
+
+What is the total quantity sold over time? ------done
+
+ Product Performance
+
+Which product categories contribute the most to total sales?----done
+
+Which individual products are the top sellers?------done
+
+Which products have the lowest sales and might need discontinuation?
+
+ Store / Location Insights
+
+Which store/location/city generates the highest revenue? -----done
+
+How do sales vary by location over time?-----done
+
+What is the average sales per store?-----done
+
+ Time Intelligence
+
+What are the peak business hours?-----done
+
+
+ Product + Time + Location Combined Insights
+
+Which products sell best in specific locations? -----done
+
+Which products are most popular during specific time periods (morning/evening)? -------done
+
+What is the sales distribution of categories across locations?-----done
