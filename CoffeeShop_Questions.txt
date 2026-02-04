@@ -1,0 +1,49 @@
+⭐ Sales Performance
+
+What is the total sales revenue over time (daily, monthly, yearly)?-----done
+
+How has the sales trend changed over months or seasons?-----done
+
+Which days of the week generate the highest sales?
+
+What is the average order value? ------done
+
+What is the total quantity sold over time? ------done
+
+🥤 Product Performance
+
+Which product categories contribute the most to total sales?----done
+
+Which individual products are the top sellers?------done
+
+Which products have the lowest sales and might need discontinuation?
+
+What is the profitability by product (if cost exists)?
+
+How do product sizes (Tall, Grande, Venti, etc.) impact revenue?
+
+🏬 Store / Location Insights
+
+Which store/location/city generates the highest revenue? -----done
+
+How do sales vary by location over time?-----done
+
+Which locations have declining vs. improving performance?
+
+What is the average sales per store?-----done
+
+⏳ Time Intelligence
+
+What are the peak business hours?-----done
+
+How do holiday season sales compare to regular days?
+
+What is the Month-over-Month (MoM) and Year-over-Year (YoY) sales growth?
+
+🧩 Product + Time + Location Combined Insights
+
+Which products sell best in specific locations? -----done
+
+Which products are most popular during specific time periods (morning/evening)? -------done
+
+What is the sales distribution of categories across locations?-----done
